@@ -6,5 +6,5 @@
 
 ## Extensions
 
-[Colors](https://github.com/kevinjbayer/swift-helpers/blob/main/extensions/Colors.md) 
+[Colors](https://github.com/kevinjbayer/swift-helpers/blob/main/extensions/Colors.md)  
 [UIScreen](https://github.com/kevinjbayer/swift-helpers/blob/main/extensions/UIScreen.md)
